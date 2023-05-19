@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "students": [
+    {
+      "firstname": "Shahana",
+      "lastname": "siyadh",
+      "email": "siyadhkp!6@gmail.com",
+      "dob": "2023-05-07T20:00:00.000Z",
+      "gender": "male",
+      "mark": "90",
+      "place": "aluva",
+      "cat": "NSS",
+      "phno": "9744563456",
+      "id": 2
+    },
+    {
+      "firstname": "h",
+      "lastname": "m",
+      "email": "dd@jj",
+      "dob": "2023-05-15T20:00:00.000Z",
+      "gender": "male",
+      "mark": "55",
+      "place": "y",
+      "cat": "Arts",
+      "phno": "88",
+      "id": 3
+    }
+  ]
+}
